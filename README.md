@@ -10,6 +10,11 @@
     📄 View Complete Project Report
 </a>
 
+## Exploratory Data Analysis (EDA)
+<a href="https://github.com/Shivansh007-A/Meta-AD-Performance-Dashboard/blob/main/Meta_AD_Perfromance.ipynb">
+    📄 View Complete Project Report
+</a>
+
 ## Technologies Used
 - Python
 - Pandas
